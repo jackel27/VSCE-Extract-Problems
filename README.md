@@ -4,4 +4,4 @@ This extension allows you to extract all the messages from the Problems panel in
 
 ## How to Use
 
-Right click on any problem in the Problems pane and select "Extract All Problems Messages". All the messages will be copied to your clipboard, and you can then paste them into any text editor.
+You use it by opening the Command Palette (Ctrl+Shift+P), typing Extract Problems, and choosing the Extract Problems Messages to CSV command.
