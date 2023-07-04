@@ -13,6 +13,10 @@
         "onCommand:extension.extractProblemsMessage"
     ],
     "main": "./dist/extension.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/jackel27/VSCE-Extract-Problems.git"
+    },
     "contributes": {
         "commands": [
             {
